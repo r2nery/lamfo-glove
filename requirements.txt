@@ -3,3 +3,10 @@ scipy
 matplotlib
 sklearn
 gensim
+pandas
+seaborn
+nltk
+wordcloud
+bs4
+keras
+tensorflow
